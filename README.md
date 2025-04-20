@@ -20,7 +20,4 @@ An interactive Excel dashboard analyzing toy sales across time, products, and ci
 - Slicers
 - Custom Number Formatting
 
-## 📁 File
-
-- `Toy_Sales_Dashboard.xlsx` — the full interactive dashboard workbook
-
+📂 [Click here to view/download on Google Drive](https://docs.google.com/spreadsheets/d/1tpFUqOequKkhLEyjAno713iG-8noZ1l0/edit?usp=drive_link&ouid=109158028618795061675&rtpof=true&sd=true)
